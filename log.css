@@ -1,0 +1,44 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+
+#main{
+	width:70%;
+	height:500px;
+	margin:4% 15% 0% 15%;
+	background-image:linear-gradient(120deg,#51d9db,#71f3f5);
+	opacity: 0.7;
+}
+.fd{
+	border:none;
+	border-bottom:2px solid darkblue;
+	padding:14px 8px;
+	margin-top:2%;
+	width: 400px;
+
+}
+.fdd{
+	width: 420px;
+	padding: 14px 8px;;
+	background: darkblue;
+	font-family: serif;
+	font-size: 20px;
+	color:white;
+	border:none;
+	margin-top:2%;
+}
+body{
+	width:100%;
+	background:url(1i.jpg),linear-gradient(#0388fc,#cdf783,#b1fa32);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: multiply;
+    height:900px;
+    margin:0px;
+    padding:0px;
+}
+form{
+	padding-top: 10%;
+}

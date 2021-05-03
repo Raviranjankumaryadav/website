@@ -1,0 +1,175 @@
+
+
+
+
+.nav_img{
+	width:100%;
+	background:url(1i.jpg),linear-gradient(#0388fc,#cdf783,#b1fa32);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: multiply;
+    height:450px;
+    margin:0px;
+    padding:0px;
+    
+
+}
+h1{
+	font-family:cursive;
+	font-size:30px;
+	color:white;
+	text-align: center;
+
+
+
+}
+.head{
+	
+	width:40%;
+	height:150px;
+	overflow:hidden;
+	background:#020561;
+	 
+
+	 opacity:0.4;
+
+}
+.head:hover{
+background: #20d672;	
+	opacity:0.8;
+
+
+}
+.reg{
+	width:50%;
+	height: 100px;
+	 margin:2% 25% 0% 25%;
+
+}
+.btnn{
+	width:250px;
+	height:70px;
+	background-image:linear-gradient(120deg,#161154,red);
+	border:none;
+	color:white;
+	font-size:26px;
+	font-family:serif;
+	opacity:0.8;
+	border-radius:40px;
+	cursor:pointer;
+}
+.btnn_b{
+	width:250px;
+	height:70px;
+	background-image:linear-gradient(120deg,#73802e,red);
+	border:none;
+	color:white;
+	font-size:26px;
+	font-family:serif;
+	opacity:0.8;
+	border-radius:40px;
+	cursor:pointer;
+	margin-left:20%;
+}
+.btnn:hover{
+	background:#020561;
+	opacity:0.8;
+}
+.btnn_b:hover{
+	background: #20d672;	
+	opacity:0.8;
+
+}
+#filed{
+	margin:0px;
+	padding: 0px;
+	width:100%;
+	height:450px;
+
+	
+}
+#field{
+	width:80%;
+	margin:3% 10% 0% 10%;
+	
+	
+
+}
+.fd{
+	margin: 2%;
+	width:300px;
+	height:350px;
+	background:070c6e;
+	
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+	box-shadow:0px 2px 5px rgba(0,0,0,0.3),0px 4px 5px rgba(0,0,0,0.3);
+	border-radius:10px;
+
+ 
+}
+.fa-user-graduate{
+	width:100px;
+	height:90px;
+	font-size:80px;
+		margin-top:8px;
+		color:darkblue;
+		align-content:center;
+}
+.fa-trophy{
+	width:100px;
+	height:90px;
+	font-size:80px;
+		margin-top:8px;
+		color:gold;
+				align-content:center;
+}
+.fa-chart-line{
+	margin-top:8px;
+	width:100px;
+	height:90px;
+	font-size:80px;
+	color:green;
+
+}
+h3{
+	font-family: serif;
+	font-size:26px;
+}
+#about{
+	width:100%;
+	height:300px;
+
+	background-image:linear-gradient(60deg,gold,blue);
+	opacity:0.8;
+}
+.acontant{
+width:80%;
+margin:2% 10% 0% 10%;
+height:200px;
+background:;
+opacity:0.9;
+color:white;
+font-family: serif;
+}
+#footer{
+	width: 100%;
+	height: 200px;
+	background-image:linear-gradient(60deg,#091659,blue);
+
+}
+meta{
+	width:70%;
+	height: 200px;
+	margin:1% 15% 0% 15%;
+}
+h5{
+	text-align: center;
+	font-family: cursive;;
+	color:white;
+}
+a{
+	text-decoration: none;
+	color:white;
+}
